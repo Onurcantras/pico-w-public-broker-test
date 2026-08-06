@@ -1,0 +1,8 @@
+{
+  "wifi_ssid": "YOUR_WIFI_SSID",
+  "wifi_pass": "YOUR_WIFI_PASSWORD",
+  "mqtt_broker": "test.mosquitto.org",
+  "mqtt_port": 1883,
+  "student_id": "onurcan-tras-unique-id",
+  "device_id": "pico-w-irrigation-01"
+}
